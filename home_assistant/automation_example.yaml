@@ -1,0 +1,12 @@
+- id: '156546677999'
+  alias: Jo's Green Switch
+  description: ''
+  trigger:
+  - entity_id: binary_sensor.jo_s_green_switch
+    platform: state
+    to: 'on'
+  condition: []
+  action:
+  - entity_id: group.downstairslights, light.landing_light, switch.immersion_heater,
+      switch.bath_mode
+    service: homeassistant.turn_off
