@@ -11,6 +11,8 @@ _(As an Amazon Associate I earn from qualifying purchases)_
 * [Switches](https://amzn.to/2v9ViZN)
 * [D1 Mini](https://amzn.to/2UvAmqJ)
 
+[stl files for case](https://www.thingiverse.com/thing:4148540)
+
 ## My wiring:
 The returns AND the Light GNDs from all the switches are connected to GND on the D1 Mini,
 The other side of the switch is connected to the relevant GPIO (see the ESPHome yaml file)
