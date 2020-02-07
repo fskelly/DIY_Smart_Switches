@@ -4,7 +4,7 @@
 
 [![Support Pinkywafer on Patreon][patreon-shield]][patreon]
 
-Companion Repo for YouTube video showing ESP home sketch and example automation
+Companion Repo for [YouTube video](https://youtu.be/BGS9PLxu518) showing ESP home sketch and example automation
 
 ### Buy on Amazon
 _(As an Amazon Associate I earn from qualifying purchases)_
