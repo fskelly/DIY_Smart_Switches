@@ -6,5 +6,10 @@
 
 Companion Repo for YouTube video showing ESP home sketch and example automation
 
+### Buy on Amazon
+_(As an Amazon Associate I earn from qualifying purchases)_
+* [Switches](https://amzn.to/2v9ViZN)
+* [D1 Mini](https://amzn.to/2UvAmqJ)
+
 [patreon-shield]: https://c5.patreon.com/external/logo/become_a_patron_button.png
 [patreon]: https://www.patreon.com/pinkywafer
